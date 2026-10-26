@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(week7_fist_app LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "week7_fist_app")
+=======
+project(week05_first_app LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "week05_first_app")
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

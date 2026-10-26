@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "week7_fist_app",
     "short_name": "week7_fist_app",
+=======
+    "name": "week05_first_app",
+    "short_name": "week05_first_app",
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

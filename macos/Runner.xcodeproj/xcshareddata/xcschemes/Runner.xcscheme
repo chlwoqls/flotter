@@ -15,7 +15,11 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                      BuildableName = "week7_fist_app.app"
+=======
+                     BuildableName = "week05_first_app.app"
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
                      BlueprintName = "Runner"
                      ReferencedContainer = "container:Runner.xcodeproj">
                   </BuildableReference>
@@ -33,7 +37,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "week7_fist_app.app"
+=======
+               BuildableName = "week05_first_app.app"
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -49,7 +57,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "week7_fist_app.app"
+=======
+            BuildableName = "week05_first_app.app"
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -84,7 +96,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "week7_fist_app.app"
+=======
+            BuildableName = "week05_first_app.app"
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -101,7 +117,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "week7_fist_app.app"
+=======
+            BuildableName = "week05_first_app.app"
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

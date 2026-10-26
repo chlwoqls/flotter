@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: week7_fist_app
+=======
+name: week05_first_app
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0+1

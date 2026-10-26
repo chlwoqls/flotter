@@ -7,7 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Week7 Fist App</string>
+=======
+	<string>Week05 First App</string>
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>week7_fist_app</string>
+=======
+	<string>week05_first_app</string>
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

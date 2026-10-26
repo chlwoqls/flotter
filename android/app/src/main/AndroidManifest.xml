@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="week7_fist_app"
+=======
+        android:label="week05_first_app"
+>>>>>>> ff33d80e7cdbf1ab969f6eb58e5f7f6dc7d65418
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
